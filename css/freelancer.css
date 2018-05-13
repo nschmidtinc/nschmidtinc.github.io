@@ -40,15 +40,15 @@ hr.star-light {
 
 hr.star-light:after {
   color: #fff;
-  background-color: #18bc9c;
+  background-color: #ffffb3;
 }
 
 hr.star-dark {
-  border-color: #2c3e50;
+  border-color: #c22342;
 }
 
 hr.star-dark:after {
-  color: #2c3e50;
+  color: #c22342;
   background-color: white;
 }
 
@@ -115,7 +115,7 @@ section h2 {
 }
 
 #mainNav .navbar-nav li.nav-item a.nav-link:hover {
-  color: #18bc9c;
+  color: #ffffb3;
 }
 
 #mainNav .navbar-nav li.nav-item a.nav-link:active,
@@ -124,7 +124,7 @@ section h2 {
 }
 
 #mainNav .navbar-nav li.nav-item a.nav-link.active {
-  color: #18bc9c;
+  color: #ffffb3;
 }
 
 #mainNav .navbar-toggler {
